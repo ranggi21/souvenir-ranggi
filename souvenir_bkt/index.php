@@ -179,7 +179,7 @@ require("../connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost/souvenir_postgre/souvenir_bkt/";
+var server = "https://iisi-ranggi.herokuapp.com/souvenir_postgre/souvenir_bkt/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
