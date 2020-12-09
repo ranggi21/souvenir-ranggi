@@ -1,2 +1,2 @@
 <?php
-  header('Location: localhost/souvenir_postgre/souvenir_bkt/');
+  header('Location: https://iisi-ranggi.herokuapp.com/souvenir_postgre/souvenir_bkt/');
